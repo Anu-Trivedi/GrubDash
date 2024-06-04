@@ -7,7 +7,7 @@ For the frontend, please visit [this link.](https://github.com/Thinkful-Ed/start
 ## Getting Started
 
 To get started with this project, follow these steps:
-1. Clone this repository to your local machine using `https://github.com/Anu-Trivedi/GrubDash.git`
+1. Clone this repository to your local machine using `https://github.com/Anu-Trivedi/GrubDash-server.git`
 2. Navigate to the project directory using `cd grubdash`.
 3. Install the required dependencies using `npm install`.
 4. Start the development server using `npm start`.
